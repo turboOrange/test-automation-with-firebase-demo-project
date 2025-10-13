@@ -1,0 +1,6 @@
+{
+  "run": {
+    "tests_dir": "specs",
+    "environment": "default"
+  }
+}
